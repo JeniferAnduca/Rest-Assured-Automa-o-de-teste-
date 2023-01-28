@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1792a734-5ac1-40cd-a1b5-0a05fc26cd05" name="Changes" comment="Final project Rest-Assured" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Kw63YsSHBSqHjkfiGVNBJCKNZD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jenifer\Desktop\GFT\Rest-Assured-testes-api\Rest-Assured\src\main\java" />
+      <recent name="C:\Users\jenifer\Desktop\GFT\Rest-Assured-testes-api\Rest-Assured\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BookingTests.CreateBooking_WithValidData_returnOk">
+    <configuration name="BookingTests.CreateBooking_WithValidData_returnOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-automation-tests-challenge-rest-assured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingTests" />
+      <option name="METHOD_NAME" value="CreateBooking_WithValidData_returnOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingTests.getAllBookingsById_returnOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-automation-tests-challenge-rest-assured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingTests" />
+      <option name="METHOD_NAME" value="getAllBookingsById_returnOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingTests.getAllBookingsByUserFirstName_BookingExists_returnOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-automation-tests-challenge-rest-assured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingTests" />
+      <option name="METHOD_NAME" value="getAllBookingsByUserFirstName_BookingExists_returnOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookingTests.CreateBooking_WithValidData_returnOk" />
+        <item itemvalue="JUnit.BookingTests.getAllBookingsByUserFirstName_BookingExists_returnOk" />
+        <item itemvalue="JUnit.BookingTests.getAllBookingsById_returnOk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1792a734-5ac1-40cd-a1b5-0a05fc26cd05" name="Changes" comment="" />
+      <created>1674873105190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674873105190</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Final project Rest-Assured">
+      <created>1674874828327</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674874828327</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final project Rest-Assured" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final project Rest-Assured" />
+  </component>
+</project>
